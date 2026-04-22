@@ -1,6 +1,6 @@
 # Assignment 4 – IPFS Integration
 
-**Name:** Ashish Patil | **PRN:** 123B1B083 | **Subject:** Blockchain Laboratory
+**Name:** Ashish Patil | **PRN:** 123B1B083 | **Subject:** Blockchain Laboratory  
 
 ---
 
