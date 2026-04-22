@@ -1,6 +1,6 @@
 # Assignment 5 – DAO Smart Contract
 
-**Name:** Ashish Patil | **PRN:** 123B1B083 | **Subject:** Blockchain Laboratory
+**Name:** Ashish Patil | **PRN:** 123B1B083 | **Subject:** Blockchain Laboratory  
 
 ---
 
