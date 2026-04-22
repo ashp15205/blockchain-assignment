@@ -67,6 +67,3 @@ In the deployed contract panel:
 4. Verify Account 1 received `1.8 ETH` and Owner received `0.2 ETH`
 
 ---
-
-## 📸 Screenshots
-*(Attach screenshots of: Compilation success, Contract deployment, createMatch transaction, resolveMatch with balance change)*
