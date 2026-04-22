@@ -67,7 +67,3 @@ Transaction Hash : <PASTE_HASH_AFTER_DEPLOYMENT>
 Explorer URL     : https://amoy.polygonscan.com/address/<CONTRACT_ADDRESS>
 ```
 
----
-
-## 📸 Screenshots
-*(Attach screenshots of: Compilation success, Deployment transaction confirmation, Contract address on Polygonscan explorer)*
