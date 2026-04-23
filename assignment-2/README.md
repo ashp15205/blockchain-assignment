@@ -61,9 +61,11 @@ Deploy the `Battle.sol` smart contract to the **Polygon Amoy Testnet** using **R
 ## ✅ Deployed Contract Info
 
 ```
-Contract Address : <PASTE_ADDRESS_AFTER_DEPLOYMENT>
+Contract Address : 0x383428cE9418E6B444c80A966dab4B317DA376De
 Network          : Polygon Amoy Testnet
-Transaction Hash : <PASTE_HASH_AFTER_DEPLOYMENT>
-Explorer URL     : https://amoy.polygonscan.com/address/<CONTRACT_ADDRESS>
+Transaction Hash: 0xe2beec57bac3692d77683a44574b39b57eb76ac73070f497758527dd151efc02
+Explorer URL     : https://amoy.polygonscan.com/address/0x383428cE9418E6B444c80A966dab4B317DA376De
 ```
+
+---
 
